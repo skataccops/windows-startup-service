@@ -1,0 +1,15 @@
+# ==============================================================================
+# LaunchSvc Configuration (app.txt)
+# ==============================================================================
+# Specify one application / command line per line.
+# Lines starting with # or // are ignored as comments.
+#
+# Examples:
+#   C:\Windows\System32\notepad.exe
+#   %LOCALAPPDATA%\Programs\MyApp\app.exe
+#   "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe" --profile-directory="Profile 1" --app-id=...
+# ==============================================================================
+
+"C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory="Profile 1" --app-id=hddihfeenjkjdfhhidapmhkhnhmapanm
+"C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory="Profile 1" --app-id=ajopjloedkbibmppcneeginkekdafipl
+"C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory="Profile 1" --app-id=hlfpdejhminhhoacjocmljedhiboccbk
